@@ -1,10 +1,21 @@
-# Getting Started with Create React App
+# Product Modal
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+## description
+This is a customizable and responsive React Modal Component designed using Tailwind CSS. The modal is enhanced with the animate-ping and flex classes from Tailwind CSS to provide a sleek and modern user interface.
+
+## Features
+Responsive Design: The modal is designed to adapt to various screen sizes, ensuring a seamless user experience across devices.
+
+Animate Ping: The modal utilizes the animate-ping class for a subtle animation effect, adding a touch of interactivity to the user interface.
+
+Flex Layout: The flex class is applied to ensure a flexible and responsive layout, allowing the modal to adjust its size and position based on the content and screen size.
+
+
+
+![Screenshot 2023-12-31 205420](https://github.com/amanuel0924/product_modal/assets/89680444/45c8f419-d17c-4d81-b3bb-15448afd7830)
+![Screenshot 2023-12-31 205440](https://github.com/amanuel0924/product_modal/assets/89680444/354edff3-b950-47dc-8742-93adbd028c95)
 
 ### `npm start`
 
