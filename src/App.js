@@ -25,6 +25,14 @@ function App() {
                 On the other hand, we denounce with righteous indignation and
                 dislike men
               </p>
+              <div className="group">
+                <button
+                  className="w-full bg-blue-500 text-white px-4 py-2 shadow-md transition duration-200 border-b-8 border-blue-700 rounded-lg
+                group-hover:bg-blue-500 group-hover:border-t-8 group-hover:border-b-0 group-hover:border-blue-800 group-hover:shadow-lg"
+                >
+                  <div className=" duration-150 ">Buy now</div>
+                </button>
+              </div>
             </div>
           </div>
         </div>
