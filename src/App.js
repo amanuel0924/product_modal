@@ -33,6 +33,10 @@ function App() {
                   <div className=" duration-150 ">Buy now</div>
                 </button>
               </div>
+              <div className="flex items-center space-x-3  ">
+                <div className="w-3 h-3 animate-ping bg-green-500 rounded-full"></div>
+                <div className="text-sm"> 50 pcs, In stock</div>
+              </div>
             </div>
           </div>
         </div>
